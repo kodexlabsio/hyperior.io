@@ -1,5 +1,5 @@
 <p align="center">
-<img width="300" src="./src/lib/assets/hyperior-logo-full.svg" alt="Hyperior">
+<a target="_blank" href="https://kodexlabs.io/"><img width="150" height="150" src="./.kodex/icons/logo-icon.svg"></a>
 </p>
 <p align="center">
 <a href="https://github.com/kodexlabsio/hyperior.io/actions/workflows/deploy.yml"><img src="https://github.com/kodexlabsio/hyperior.io/actions/workflows/deploy.yml/badge.svg" alt="Deploy to GitHub Pages"></a>&nbsp;<a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte"></a>&nbsp;<a href="https://vite.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite"></a>
