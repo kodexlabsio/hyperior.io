@@ -1,0 +1,1 @@
+node .kodex/scripts/update-dates.mts && npx lint-staged
